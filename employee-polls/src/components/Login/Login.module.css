@@ -1,0 +1,43 @@
+.container {
+    max-width: 400px;
+    margin: auto;
+    margin-top: 40px;
+}
+
+.loginForm {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    border: solid rgb(212, 205, 205) 1px;
+    box-shadow: 0 0 2px rgb(207, 203, 203);
+    border-radius: 10px;
+    padding: 10px;
+}
+
+.title {
+    font-size: 2rem;
+    font-weight: 600;
+}
+
+.text {
+    font-size: 1.5rem;
+}
+
+.btnSubmit {
+    padding: 10px 30px;
+    margin-top: 10px;
+    margin-bottom: 40px;
+    background-color: #352dd8;
+    border: none;
+    border-radius: 5px;
+    color: #ffff;
+    font-weight: bold;
+}
+
+.btnSubmit:disabled {
+    background-color: #a7a7a7;
+    color: #535050;
+    cursor: not-allowed;
+}

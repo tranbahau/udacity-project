@@ -1,0 +1,41 @@
+.container {
+    width: 75%;
+    margin: auto;
+    border: solid rgb(212, 205, 205) 1px;
+    box-shadow: 0 0 2px rgb(207, 203, 203);
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.imgContainer {
+    width: 150px;
+    text-align: center;
+}
+.img{
+    width: 70%;
+}
+.info {
+    width: 70%;
+}
+
+.info .userName {
+    margin: 0;
+    font-weight: 500;
+    font-size: 1.3rem;
+} 
+
+.info .time {
+    font-size: 14px;
+}
+
+.info button {
+    margin-top: 5px;
+    padding: 3px 20px;
+    border-radius: 5px;
+    border: none;
+    background: #4182d6;
+    color: #ffff;
+}

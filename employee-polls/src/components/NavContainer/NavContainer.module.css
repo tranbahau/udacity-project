@@ -1,0 +1,14 @@
+.container {
+    margin-bottom: 30px;
+}
+.navlink {
+ text-decoration: none;
+ font-size: 1.2rem;
+ margin: 0 10px 0 10px;
+}
+b {
+    margin-left: 10px;
+}
+.userId {
+    margin: 0 20px
+}

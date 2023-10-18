@@ -1,0 +1,264 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`App should render the component 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": <body>
+    <div>
+      <div
+        style="direction: ltr;"
+      >
+        <div
+          class=""
+          style="width: 0%; transition: width 800ms linear 0s; will-change: width, opacity; height: 3px; background-color: red; position: absolute; opacity: 0;"
+        />
+        <div
+          style="display: table; clear: both;"
+        />
+      </div>
+      <nav
+        class="container navbar navbar-expand-lg navbar-light bg-light"
+        data-testid="nav-container"
+      >
+        <div
+          class="container"
+        >
+          <span
+            class="navbar-brand"
+            to="/"
+          >
+            Employee Polls Project
+          </span>
+          <button
+            aria-controls="basic-navbar-nav"
+            aria-label="Toggle navigation"
+            class="navbar-toggler collapsed"
+            type="button"
+          >
+            <span
+              class="navbar-toggler-icon"
+            />
+          </button>
+          <div
+            class="navbar-collapse collapse"
+            id="basic-navbar-nav"
+          >
+            <div
+              class="me-auto navbar-nav"
+            >
+              <a
+                class="navlink"
+                href="/"
+              >
+                Questions
+              </a>
+              <a
+                class="navlink"
+                href="/leaderboard"
+              >
+                Leaderboard
+              </a>
+              <a
+                class="navlink"
+                href="/add"
+              >
+                New
+              </a>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div
+        class="container"
+      >
+        <div
+          class="loginForm"
+        >
+          <p
+            class="title"
+          >
+            Employee Polls
+          </p>
+          <p
+            class="text"
+          >
+            Login
+          </p>
+          <form>
+            <select
+              class="form-select"
+              style="width: 280px;"
+            >
+              <option
+                value="default"
+              >
+                Please choose user to login
+              </option>
+            </select>
+            <button
+              class="btnSubmit"
+              disabled=""
+              type="submit"
+            >
+              Submit
+            </button>
+          </form>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": <div>
+    <div
+      style="direction: ltr;"
+    >
+      <div
+        class=""
+        style="width: 0%; transition: width 800ms linear 0s; will-change: width, opacity; height: 3px; background-color: red; position: absolute; opacity: 0;"
+      />
+      <div
+        style="display: table; clear: both;"
+      />
+    </div>
+    <nav
+      class="container navbar navbar-expand-lg navbar-light bg-light"
+      data-testid="nav-container"
+    >
+      <div
+        class="container"
+      >
+        <span
+          class="navbar-brand"
+          to="/"
+        >
+          Employee Polls Project
+        </span>
+        <button
+          aria-controls="basic-navbar-nav"
+          aria-label="Toggle navigation"
+          class="navbar-toggler collapsed"
+          type="button"
+        >
+          <span
+            class="navbar-toggler-icon"
+          />
+        </button>
+        <div
+          class="navbar-collapse collapse"
+          id="basic-navbar-nav"
+        >
+          <div
+            class="me-auto navbar-nav"
+          >
+            <a
+              class="navlink"
+              href="/"
+            >
+              Questions
+            </a>
+            <a
+              class="navlink"
+              href="/leaderboard"
+            >
+              Leaderboard
+            </a>
+            <a
+              class="navlink"
+              href="/add"
+            >
+              New
+            </a>
+          </div>
+        </div>
+      </div>
+    </nav>
+    <div
+      class="container"
+    >
+      <div
+        class="loginForm"
+      >
+        <p
+          class="title"
+        >
+          Employee Polls
+        </p>
+        <p
+          class="text"
+        >
+          Login
+        </p>
+        <form>
+          <select
+            class="form-select"
+            style="width: 280px;"
+          >
+            <option
+              value="default"
+            >
+              Please choose user to login
+            </option>
+          </select>
+          <button
+            class="btnSubmit"
+            disabled=""
+            type="submit"
+          >
+            Submit
+          </button>
+        </form>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

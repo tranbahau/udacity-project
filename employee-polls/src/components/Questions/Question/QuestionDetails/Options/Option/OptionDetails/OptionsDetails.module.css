@@ -1,0 +1,21 @@
+.progressBar {
+    background-color: #cac4c4;
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+
+.percentage {
+    text-align: left;
+}
+
+.progressBarFill{
+    display: block;
+    background: #352dd8;
+    border-radius: 10px;
+    text-align: left;
+    padding-left: 10px;
+    color: #ffff;
+    font-size: 14px;
+    height: 23px;
+}

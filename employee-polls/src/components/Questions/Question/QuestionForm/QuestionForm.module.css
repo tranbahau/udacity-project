@@ -1,0 +1,25 @@
+.container {
+    display: flex;
+    align-items: center;
+    border: solid rgb(212, 205, 205) 1px;
+    border: 0 0 2px rgb(207, 203, 203);
+    border-radius: 10px;
+    max-width: 500px;
+    margin: auto;
+    margin-top: 45px;
+    padding: 10px 10px 10px 0px
+}
+
+.imgContainer {
+    width: 30%;
+    text-align: center;
+}
+
+.img {
+    width: 70%;
+}
+
+.info {
+    padding-left: 15px;
+    border-left: solid rgb(212, 205, 205) 1px;
+}
